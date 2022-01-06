@@ -1,0 +1,15 @@
+.title{
+	font-family: urbanist;
+	text-align:center;
+}
+
+button {
+    background-color: orange;
+    border: none;
+    
+    cursor:pointer;
+    font-size: 20px;
+    margin-right: 20px;
+    padding: 10px 4px;
+    border-radius: 2px;
+}
